@@ -7,6 +7,3 @@
 
 # Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCheeMing&layout=compact)
-
-# Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cteoh@student.42kl.edu.my)
