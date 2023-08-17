@@ -8,5 +8,6 @@
 4. get_next_line<br>[![cteoh's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clj2mulun019608meuhvnlwn8/project/3148128)](https://github.com/JaeSeoKim/badge42)
 5. FdF<br>[![cteoh's 42 FdF Score](https://badge42.vercel.app/api/v2/clj2mulun019608meuhvnlwn8/project/3159934)](https://github.com/JaeSeoKim/badge42)
 
-# Languages
+# Statistics
+[![TCheeMing's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCheeMing)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCheeMing&layout=compact)
