@@ -9,5 +9,5 @@
 5. FdF<br>[![cteoh's 42 FdF Score](https://badge42.vercel.app/api/v2/clj2mulun019608meuhvnlwn8/project/3159934)](https://github.com/JaeSeoKim/badge42)
 
 # Statistics
-![TCheeMing's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCheeMing&show_icons=true&theme=material-palenight)<br>
+![TCheeMing's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCheeMing&show_icons=true&theme=midnight_purple)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCheeMing&layout=compact)
