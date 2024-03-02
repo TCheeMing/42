@@ -1,7 +1,2 @@
 # 42 Profile
-
-# 42 Projects
-
-# Statistics
-![TCheeMing's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCheeMing&show_icons=true&theme=midnight-purple)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCheeMing&layout=compact&theme=midnight-purple)
+[![cteoh's 42 stats](https://badge.mediaplus.ma/darkblue/cteoh?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
