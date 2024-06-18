@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! It's Chee Ming 😄</h1>
 <ul>
-  <li><h4>A former chemist 🧪 aspiring to be a Software Engineer/Developer 💻.</h4></li>
+  <li><h4>A former Chemist 🧪 aspiring to be a Software Engineer/Developer 💻.</h4></li>
   <li><h4>Currently studying in 42 Kuala Lumpur 🇲🇾 , a peer-to-peer and project-based programming school 🏫. The curriculum encompasses various fields of computer science and software engineering, from simple data structures and algorithms to building web servers .</h4></li>
 </ul>
 
